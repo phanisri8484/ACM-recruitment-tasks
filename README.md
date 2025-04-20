@@ -9,3 +9,7 @@ Check if the array is sorted:
 ![sorted array](https://github.com/user-attachments/assets/3d65afb5-a40c-4e39-b9a7-0a392af96fc3)
 Left rotate the array by one place:
 ![rotate array left](https://github.com/user-attachments/assets/f86b4f06-624c-4308-89e8-f5d8559c53e9)
+right rotate the array by k places
+![rotate array to right by k places](https://github.com/user-attachments/assets/ee61e345-a0f0-4919-b5ce-baad63d8a7e0)
+Move zeroes to the end:
+![move zeroes to the end](https://github.com/user-attachments/assets/cdc9236b-a0f1-4ec7-80ea-741945915994)
